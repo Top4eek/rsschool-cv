@@ -1,4 +1,4 @@
-## [rsschool-cv](https://github.com/Top4eek/rsshool-cv.git)
+## [rsschool-cv](https://top4eek.github.io/rsschool-cv/cv)
 
 # **German Lonchakov**
 ===========================
